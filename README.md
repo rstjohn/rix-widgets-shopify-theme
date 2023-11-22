@@ -1,0 +1,1 @@
+# rix-widgets-shopify-theme
