@@ -1,1 +1,42 @@
 shopify.theme.toml
+
+*.pydevproject
+bin/
+tmp/
+venv/
+*.tmp
+*.swp
+*.pyc
+*~.nib
+*.cache-main
+*.cache-tests
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+build/
+
+#Visual Studio Code
+.vscode
+
+# Node Modules
+node_modules/
+
+# MacOS
+.DS_Store
+
+# Gradle/Maven
+target/
+.gradle/
+gradle/
+gradlew*
+*.versionsBackup
+
+# General
+*~
+out/
+*/ssh_config
+*.retry
+.aws_credentials.txt
+.gitlab_private_key.txt
