@@ -394,5 +394,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "p {font-family: 'argestadisplay-regular'}"
+    ]
   }
 }
