@@ -949,11 +949,13 @@ summary::-webkit-details-marker {
   }
 }
 
+/* TODO:  */
 .grid--2-col .grid__item {
   width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
 }
 
 @media screen and (min-width: 750px) {
+  /* TODO */
   .grid--2-col .grid__item {
     width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
   }
@@ -967,6 +969,7 @@ summary::-webkit-details-marker {
   }
 
   .grid--2-col-tablet .grid__item {
+    /* TODO */
     width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
   }
 }
@@ -1074,6 +1077,7 @@ summary::-webkit-details-marker {
 
   .grid--2-col-tablet-down .grid__item {
     width: calc(50% - var(--grid-mobile-horizontal-spacing) / 2);
+    width: calc(100% - var(--grid-mobile-horizontal-spacing) / 2);
   }
 
   .slider--tablet.grid--peek.grid--2-col-tablet-down .grid__item,
