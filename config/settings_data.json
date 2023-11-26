@@ -1,9 +1,9 @@
 {
   "current": {
     "logo_width": 90,
-    "type_header_font": "serif",
+    "type_header_font": "argestadisplay-regular",
     "heading_scale": 100,
-    "type_body_font": "serif",
+    "type_body_font": "argestadisplay-regular",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -263,9 +263,9 @@
           }
         }
       },
-      "type_header_font": "assistant_n4",
+      "type_header_font": "argestadisplay-regular",
       "heading_scale": 100,
-      "type_body_font": "assistant_n4",
+      "type_body_font": "argestadisplay-regular",
       "body_scale": 100,
       "page_width": 1200,
       "spacing_sections": 0,
