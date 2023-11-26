@@ -26,12 +26,6 @@
             "picker_type": "button"
           }
         },
-        "5bb1657e-f18c-4542-b271-b7ddaf7ec16a": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"display:'inline-block'\">\n<p>asfjlkasfjdslak<\/p>\n<\/div>"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -61,7 +55,6 @@
         "title",
         "price",
         "variant_picker",
-        "5bb1657e-f18c-4542-b271-b7ddaf7ec16a",
         "quantity_selector",
         "buy_buttons",
         "description",
